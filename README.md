@@ -19,6 +19,8 @@ Bench power supply built from standard desktop ATX PSU to provide 12V, 5V and 3.
 Custom RAMPS 1.6 3D printer built at home using aluminium extrusion framework and custom 3D printed parts. Project is based around Arduino Mega 2560, NEMA 17 stepper motors, Polulu DRV8825 stepper drivers and the RAMPS 1.6 printer shield for the arduino.
 ### ∘ RASPBERRY PI MOBILE SETUP 
 Linux-based mobile workstation developed to work on projects on the go. SD card can be interchanged for different usecases. Also converted to a media station at some point for camping. Custom power needs to be developed as the screen and raspberry pi run on different voltages and have different power requirements.
+### ∘ DEVICE CHARGING STATION
+A dock used to charge multiple devices at a time using QC2.0 as well as USB PD. A project involving power management, DIY parts sourcing skills and knowledge of basic circuitry.
 
 ## 🤔 I’m looking for help with:
 - learning more in the field of embedded design
